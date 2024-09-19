@@ -15,4 +15,6 @@ print("La suma de las variables es:") #Este texto saldra en pantalla
 print(x + y) #La suma de las vaiables saldra en pantalla
 print(" ") #Este es un espacio
 
-![image](https://github.com/user-attachments/assets/687a6794-eecb-46a3-95fd-0f9d0cd95a17)
+![image](https://github.com/user-attachments/assets/75f7ea2a-3382-444f-bfb8-7767c8f53098)
+
+![image](https://github.com/user-attachments/assets/132299e3-a2e8-4613-8c2c-e93e48fa9db6)
